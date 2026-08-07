@@ -160,7 +160,8 @@ plt.axis("off")
 <img width="632" height="505" alt="Screenshot 2026-08-07 111440" src="https://github.com/user-attachments/assets/7b9a4149-5634-4617-939b-5c80d48bbe2c" />
 
 <img width="635" height="512" alt="Screenshot 2026-08-07 111503" src="https://github.com/user-attachments/assets/9b1dec98-2825-413a-9c8a-c3229bff397c" />
-```
+
+
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
 
