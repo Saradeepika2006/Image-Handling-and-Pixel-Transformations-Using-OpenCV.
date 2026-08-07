@@ -133,9 +133,8 @@ plt.title("Flipped Vertically")
 plt.axis("off")
 ```
 ## Output:
-```
-<img width="635" height="507" alt="Screenshot 2026-08-07 110631" src="https://github.com/user-attachments/assets/35a3bde9-ef2d-4bbf-8fc4-ba8dc1019906" />
 
+<img width="635" height="507" alt="Screenshot 2026-08-07 110631" src="https://github.com/user-attachments/assets/35a3bde9-ef2d-4bbf-8fc4-ba8dc1019906" />
 <img width="631" height="508" alt="Screenshot 2026-08-07 110711" src="https://github.com/user-attachments/assets/7f933170-ae8f-4d87-b3f5-581928afd465" />
 
 <img width="632" height="505" alt="Screenshot 2026-08-07 110738" src="https://github.com/user-attachments/assets/f87ba1c0-381e-446c-b4bb-b631e9a6ce42" />
@@ -161,7 +160,7 @@ plt.axis("off")
 <img width="632" height="505" alt="Screenshot 2026-08-07 111440" src="https://github.com/user-attachments/assets/7b9a4149-5634-4617-939b-5c80d48bbe2c" />
 
 <img width="635" height="512" alt="Screenshot 2026-08-07 111503" src="https://github.com/user-attachments/assets/9b1dec98-2825-413a-9c8a-c3229bff397c" />
-
+```
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
 
